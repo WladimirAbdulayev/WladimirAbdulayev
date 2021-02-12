@@ -8,7 +8,6 @@
 - App 1: Flotte: Alles Unter Kontrolle | Fleet Management Visual App (incl. AIS Voyage and Crew Management Sections) 
 - I’m currently learning React with Redux Tool Kit, WebRTC
 - I’m looking to collaborate on Trademon.io
-- 📫 How to reach me: ...
 <br />
 
 ## 🧰 Languages and Tools:
