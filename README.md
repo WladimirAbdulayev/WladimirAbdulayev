@@ -1,4 +1,4 @@
-![alt text](https://github.com/WladimirAbdulayev/WladimirAbdulayev/blob/main/banner.jpg?raw=true)
+![alt text](https://github.com/WladimirAbdulayev/WladimirAbdulayev/blob/main/banner-black.jpg?raw=true)
 
 ### Dear Colleagues 👋
 
