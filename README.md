@@ -9,3 +9,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Trademon.io
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+![alt text](https://github.com/WladimirAbdulayev/WladimirAbdulayev/blob/main/banner.jpg?raw=true)
+
+My Languages and tools
+Javascript Typescript React Redux 
