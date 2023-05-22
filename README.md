@@ -17,7 +17,7 @@ for market leader in the fields of Electronics Production Equipment, Moulding Ma
 <code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" alt="Next.js" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
-<code><img height="40" alt="MobX" src="https://raw.githubusercontent.com/github/explore/main/topics/mobx/mobx.png"></code>
+<code><img height="40" alt="MobX" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 
 <code><img height="40" alt="C#" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 <code><img height="40" alt=".NET" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
